@@ -1,0 +1,16 @@
+hola:-write('Hola!'),nl.
+numero(X):-write('ingresa el numero 1'),read(X).
+numero(Y):-write('Ingresa el numero 2'),read(Y).
+
+contar2:-
+    write('Ingresa el primer Numero: '),nl,
+    read(X),
+    write('Ingresa el segundo Numero: '),nl,
+    read(Y),
+         P is (X + Y)/2,
+    write('Promedio: '),write(P),nl,
+          R is sqrt(P),
+    write('Square Root: '), write(R),nl,
+           L is max(X,Y),
+    write('Larger: '),write(L),nl.
+
