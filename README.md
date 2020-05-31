@@ -17,5 +17,6 @@ Ejercicio Práctico 3 (1) Página 55
 
 Ejercicio Práctico 4 (2) Página 68 
 
-Ejercicio Práctico 6 (2) Página 97 Ejercicio Práctico 9 (2) Página 136
+Ejercicio Práctico 6 (2) Página 97 
 
+Ejercicio Práctico 9 (2) Página 136
